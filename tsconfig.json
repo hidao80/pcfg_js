@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "noImplicitAny": true,
+        "module": "CommonJS",
+        "target": "es5",
+        "allowJs": true,
+        "outDir": "./dist"
+    },
+    "files": ["src/ts/index.ts"]
+}
